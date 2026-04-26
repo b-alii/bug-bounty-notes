@@ -22,7 +22,7 @@ This repository documents my journey in web application security and bug bounty 
 ---
 
 ## ⚡ Methodology
-*[Methodology](./Methodology/testing-checklist.md)
+* [Methodology](./Methodology/testing-checklist.md)
 * Recon → Identify endpoints & parameters
 * Analyze → Understand application logic
 * Test → Focus on specific features (auth, cart, input)
